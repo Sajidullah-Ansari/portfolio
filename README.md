@@ -45,19 +45,7 @@ $ python manage.py runserver
 ⚡️ Scroll through recently played/viewed songs.\
 ⚡️ Explore songs through your personalized playlist and favourites.
 
-
----
-
 ## Contributing 💡
-
-
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
 
 
 #### Step 2
